@@ -1,0 +1,106 @@
+[
+    {
+        "customer_id": "cust001",
+        "name": "cust001",
+        "purchase_history": [
+            {
+                "order_id": 1,
+                "items": [
+                    [
+                        8,
+                        1
+                    ],
+                    [
+                        13,
+                        1
+                    ],
+                    [
+                        21,
+                        1
+                    ]
+                ]
+            },
+            {
+                "order_id": 2,
+                "items": [
+                    [
+                        1,
+                        1
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "customer_id": "cust002",
+        "name": "cust002",
+        "purchase_history": [
+            {
+                "order_id": 3,
+                "items": [
+                    [
+                        25,
+                        1
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "customer_id": "cust003",
+        "name": "cust003",
+        "purchase_history": [
+            {
+                "order_id": 4,
+                "items": [
+                    [
+                        5,
+                        1
+                    ],
+                    [
+                        11,
+                        1
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "customer_id": "deepa",
+        "name": "deepa",
+        "purchase_history": [
+            {
+                "order_id": 5,
+                "items": [
+                    [
+                        19,
+                        1
+                    ],
+                    [
+                        18,
+                        5
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "customer_id": "adi",
+        "name": "adi",
+        "purchase_history": [
+            {
+                "order_id": 6,
+                "items": [
+                    [
+                        7,
+                        3
+                    ],
+                    [
+                        5,
+                        1
+                    ]
+                ]
+            }
+        ]
+    }
+]

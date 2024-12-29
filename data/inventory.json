@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 1200.0,
+        "stock": 29,
+        "popularity": 90.0
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "price": 800.0,
+        "stock": 50,
+        "popularity": 85.0
+    },
+    {
+        "id": 3,
+        "name": "Tablet",
+        "price": 500.0,
+        "stock": 20,
+        "popularity": 70.0
+    },
+    {
+        "id": 4,
+        "name": "Desktop PC",
+        "price": 1500.0,
+        "stock": 10,
+        "popularity": 88.0
+    },
+    {
+        "id": 5,
+        "name": "Gaming Console",
+        "price": 400.0,
+        "stock": 13,
+        "popularity": 80.0
+    },
+    {
+        "id": 6,
+        "name": "Smart Watch",
+        "price": 250.0,
+        "stock": 40,
+        "popularity": 65.0
+    },
+    {
+        "id": 7,
+        "name": "Headphones",
+        "price": 120.0,
+        "stock": 57,
+        "popularity": 72.0
+    },
+    {
+        "id": 8,
+        "name": "Wireless Earbuds",
+        "price": 180.0,
+        "stock": 34,
+        "popularity": 78.0
+    },
+    {
+        "id": 9,
+        "name": "Bluetooth Speaker",
+        "price": 250.0,
+        "stock": 50,
+        "popularity": 83.0
+    },
+    {
+        "id": 10,
+        "name": "External Hard Drive",
+        "price": 90.0,
+        "stock": 40,
+        "popularity": 70.0
+    },
+    {
+        "id": 11,
+        "name": "USB Flash Drive (128GB)",
+        "price": 35.0,
+        "stock": 99,
+        "popularity": 60.0
+    },
+    {
+        "id": 12,
+        "name": "Wireless Keyboard",
+        "price": 70.0,
+        "stock": 30,
+        "popularity": 75.0
+    },
+    {
+        "id": 13,
+        "name": "Wireless Mouse",
+        "price": 40.0,
+        "stock": 44,
+        "popularity": 68.0
+    },
+    {
+        "id": 14,
+        "name": "Webcam",
+        "price": 60.0,
+        "stock": 20,
+        "popularity": 65.0
+    },
+    {
+        "id": 15,
+        "name": "HDMI Cable",
+        "price": 15.0,
+        "stock": 70,
+        "popularity": 50.0
+    },
+    {
+        "id": 16,
+        "name": "Ethernet Cable (10 ft)",
+        "price": 10.0,
+        "stock": 80,
+        "popularity": 52.0
+    },
+    {
+        "id": 17,
+        "name": "Smart Home Hub",
+        "price": 300.0,
+        "stock": 10,
+        "popularity": 74.0
+    },
+    {
+        "id": 18,
+        "name": "Drone",
+        "price": 600.0,
+        "stock": 20,
+        "popularity": 85.0
+    },
+    {
+        "id": 19,
+        "name": "DSLR Camera",
+        "price": 1000.0,
+        "stock": 7,
+        "popularity": 80.0
+    },
+    {
+        "id": 20,
+        "name": "Action Camera",
+        "price": 250.0,
+        "stock": 12,
+        "popularity": 66.0
+    },
+    {
+        "id": 21,
+        "name": "Portable Charger (10000mAh)",
+        "price": 25.0,
+        "stock": 49,
+        "popularity": 60.0
+    },
+    {
+        "id": 22,
+        "name": "E-Reader",
+        "price": 130.0,
+        "stock": 15,
+        "popularity": 72.0
+    },
+    {
+        "id": 23,
+        "name": "Wireless Router",
+        "price": 90.0,
+        "stock": 25,
+        "popularity": 67.0
+    },
+    {
+        "id": 24,
+        "name": "Bluetooth Tracker",
+        "price": 35.0,
+        "stock": 40,
+        "popularity": 58.0
+    },
+    {
+        "id": 25,
+        "name": "USB-C Hub",
+        "price": 45.0,
+        "stock": 29,
+        "popularity": 65.0
+    }
+]

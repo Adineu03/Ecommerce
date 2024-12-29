@@ -1,0 +1,88 @@
+[
+    {
+        "order_id": 1,
+        "customer_id": "cust001",
+        "items": [
+            [
+                8,
+                1
+            ],
+            [
+                13,
+                1
+            ],
+            [
+                21,
+                1
+            ]
+        ],
+        "total_cost": 245
+    },
+    {
+        "order_id": 2,
+        "customer_id": "cust001",
+        "items": [
+            [
+                1,
+                1
+            ]
+        ],
+        "total_cost": 1200
+    },
+    {
+        "order_id": 3,
+        "customer_id": "cust002",
+        "items": [
+            [
+                25,
+                1
+            ]
+        ],
+        "total_cost": 45
+    },
+    {
+        "order_id": 4,
+        "customer_id": "cust003",
+        "items": [
+            [
+                5,
+                1
+            ],
+            [
+                11,
+                1
+            ]
+        ],
+        "total_cost": 435.0
+    },
+    {
+        "order_id": 5,
+        "customer_id": "deepa",
+        "items": [
+            [
+                19,
+                1
+            ],
+            [
+                18,
+                5
+            ]
+        ],
+        "total_cost": 4000.0
+    },
+    {
+        "order_id": 6,
+        "customer_id": "adi",
+        "items": [
+            [
+                7,
+                3
+            ],
+            [
+                5,
+                1
+            ]
+        ],
+        "total_cost": 760.0
+    }
+]
